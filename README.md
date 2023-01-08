@@ -4,6 +4,8 @@ This repository is home to the code for my website "shreyas.site", which I am bu
 
 The code is very basic right now as you can see in 'docs/index.html'. As and when I start building elements into it, they will be pointed out on this 'README.md' file. Please keep in mind, I don't explain the code - but only (what I believe are) the design elements.
 
+Note: Visually, these elements are not updated in real-time here. The site looks different, I know.
+
 Elements of 'shreyas.site'
 --------------------------
 
