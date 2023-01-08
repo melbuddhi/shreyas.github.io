@@ -7,4 +7,8 @@ The code is very basic right now as you can see in 'docs/index.html'. As and whe
 Elements of 'shreyas.site'
 --------------------------
 
-![Title](/images/main-title.png?raw=true "Introductory Title For The Page") A one-line entry to what this website is: its says its me, but its rather just me introducing myself and trying to connect with the viewers: the users.
+## Main title
+
+![Title](/images/main-title.png?raw=true "Introductory Title For The Page") 
+
+A one-line entry to what this website is: its says its me, but its rather just me introducing myself and trying to connect with the viewers: the users.
