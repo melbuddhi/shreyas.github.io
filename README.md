@@ -7,7 +7,7 @@ The code is very basic right now as you can see in 'docs/index.html'. As and whe
 Elements of 'shreyas.site'
 --------------------------
 
-## Main title
+1. Main Title
 
 ![Title](/images/main-title.png?raw=true "Introductory Title For The Page") 
 
