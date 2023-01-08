@@ -2,7 +2,7 @@
 
 This repository is home to the code for my website "shreyas.site", which I am building to showcase all things design in my life. 
 
-The code is very basic right now as you can see in 'docs/index.html'. As and when I start building elements into it, they will be pointed out on this README.md file.
+The code is very basic right now as you can see in 'docs/index.html'. As and when I start building elements into it, they will be pointed out on this 'README.md' file. Please keep in mind, I don't explain the code - but only (what I believe are) the design elements.
 
 Elements of 'shreyas.site'
 --------------------------
